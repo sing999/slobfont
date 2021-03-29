@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'vcr_osd_monoregular';
-    src: url('vcr_osd_mono_1.001.woff2') format('woff2'),
-         url('vcr_osd_mono_1.001.woff') format('woff');
+    src: url('https://github.com/sing999/slobfont/blob/main/vcr_osd_mono_1.001.woff?raw=true') format('woff2'),
+         url('https://github.com/sing999/slobfont/blob/main/vcr_osd_mono_1.001.woff?raw=true') format('woff');
     font-weight: normal;
     font-style: normal;
 
